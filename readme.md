@@ -26,7 +26,7 @@
 
 ## 🚀 Live Demo
 
-> 🔗 **[Click here to try it online (if deployed)](https://student-analyzer.streamlit.app)**  
+> 🔗 **[Click here to try it online](https://student-performance-predictor-eajqudhgqrwkt9ie5vtvdx.streamlit.app/)**  
 > *(or run locally using instructions below)*
 
 ---
