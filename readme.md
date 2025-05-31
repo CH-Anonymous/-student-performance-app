@@ -112,13 +112,21 @@ Then visit: [http://localhost:8501](http://localhost:8501)
 ## 📁 Folder Structure
 
 ```
-📦 student-performance-analyzer
-├── app.py                 # Streamlit app
-├── requirements.txt       # Required libraries
-├── README.md              # This file
-├── sample_data.csv        # Example input file
-└── .streamlit/
-    └── config.toml        # Optional Streamlit theming
+📦 student-performance-analyzer/
+├── .streamlit/                          # Streamlit theme configuration
+│ └── config.toml
+├── screenshots/                         # Screenshots used in README.md
+│   ├── dashboard.png
+│   ├── correlation.png
+│   ├── top_performers.png
+│   └── prediction.png
+│  
+├── model.pkl                            # Trained ML model for score prediction
+├── multi_subject_student_data.csv       # Sample dataset for demo/testing
+├── app.py                               # Main Streamlit application
+├── readme.md                            # Project documentation
+├── requirements.txt                     # Python dependencies
+└── LICENSE                              # MIT open source license
 ```
 
 ---
