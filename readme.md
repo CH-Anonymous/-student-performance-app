@@ -133,8 +133,8 @@ Feel free to use, modify, and share it.
 ## 👨‍💻 Author
 
 Made with ❤️ by **Chirag Khatri**
-📧 [your.email@example.com](mailto:chiragkhatrigk@gmail.com)
-🌐 [github.com/yourusername](https://github.com/CH-Anonymous)
+📧 [E-mail](mailto:chiragkhatrigk@gmail.com)
+🌐 [Github](https://github.com/CH-Anonymous)
 
 ---
 
