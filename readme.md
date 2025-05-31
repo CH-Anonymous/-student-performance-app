@@ -49,7 +49,7 @@ Jane Smith, 102, 92, 88, 91, Female
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/student-performance-analyzer.git
+git clone https://github.com/CH-Anonymous/student-performance-analyzer.git
 cd student-performance-analyzer
 pip install -r requirements.txt
 ```
@@ -88,10 +88,17 @@ Then visit: [http://localhost:8501](http://localhost:8501)
 
 > Add screenshots here to show off:
 >
-> * Main dashboard
-> * AI prediction panel
-> * Correlation heatmap
-> * Top performer table
+> ### 🔷 Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+> ### 🔷 AI Score Prediction
+![Prediction](screenshots/prediction.png)
+
+> ### 🔷 Correlation heatmap
+![Prediction](screenshots/correlation.png)
+
+> ### 🔷 Top performer table
+![Prediction](screenshots/top_performer.png)* 
 
 ---
 
@@ -119,8 +126,8 @@ Feel free to use, modify, and share it.
 ## 👨‍💻 Author
 
 Made with ❤️ by **Chirag Khatri**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [github.com/yourusername](https://github.com/yourusername)
+📧 [your.email@example.com](mailto:chiragkhatrigk@gmail.com)
+🌐 [github.com/yourusername](https://github.com/CH-Anonymous)
 
 ---
 
