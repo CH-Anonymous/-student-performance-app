@@ -86,7 +86,6 @@ Then visit: [http://localhost:8501](http://localhost:8501)
 
 ## 📸 Screenshots (Optional)
 
-> Add screenshots here to show off:
 >
 > ### 🔷 Main Dashboard
 <p align="center">
@@ -94,13 +93,19 @@ Then visit: [http://localhost:8501](http://localhost:8501)
 </p>
 
 > ### 🔷 AI Score Prediction
-![Prediction](screenshots/prediction.png)
+<p align="center">
+  <img src="screenshots/prediction.png" width="700"/>
+</p>
 
 > ### 🔷 Correlation heatmap
-![Prediction](screenshots/correlation.png)
+<p align="center">
+  <img src="screenshots/correlation.png" width="700"/>
+</p>
 
 > ### 🔷 Top performer table
-![Prediction](screenshots/top_performers.png)
+<p align="center">
+  <img src="screenshots/top_performers.png" width="700"/>
+</p>
 
 ---
 
