@@ -98,7 +98,7 @@ Then visit: [http://localhost:8501](http://localhost:8501)
 ![Prediction](screenshots/correlation.png)
 
 > ### 🔷 Top performer table
-![Prediction](screenshots/top_performer.png)* 
+![Prediction](screenshots/top_performers.png)* 
 
 ---
 
